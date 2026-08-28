@@ -1,0 +1,155 @@
+{
+  "checkedAt": "2026-08-28T15:13:17+08:00",
+  "plugins": [
+    {
+      "InternalName": "DailyRoutines",
+      "Name": "Daily Routines",
+      "Listed": "2.1.7.0",
+      "UpstreamTag": "2.1.7.0",
+      "UpstreamVer": "2.1.7.0",
+      "Published": "2026-08-21T09:36:56Z",
+      "Repo": "Dalamud-DailyRoutines/DailyRoutines",
+      "Status": "最新"
+    },
+    {
+      "InternalName": "AutoHook",
+      "Name": "AutoHook",
+      "Listed": "6.0.0.95",
+      "UpstreamTag": null,
+      "UpstreamVer": null,
+      "Published": null,
+      "Repo": "PunishXIV/AutoHook",
+      "Status": "查不到 release（可能走插件源分发）"
+    },
+    {
+      "InternalName": "ICE",
+      "Name": "宇宙探索助手",
+      "Listed": "0.0.78.7000",
+      "UpstreamTag": "v0.0.78.7000",
+      "UpstreamVer": "0.0.78.7000",
+      "Published": "2026-06-20T13:13:09Z",
+      "Repo": "OLDBAI213/OLDBAI",
+      "Status": "最新"
+    },
+    {
+      "InternalName": "vnavmesh",
+      "Name": "vnavmesh",
+      "Listed": "0.8.0.0",
+      "UpstreamTag": "0.8.0.0",
+      "UpstreamVer": "0.8.0.0",
+      "Published": "2026-08-14T10:40:17Z",
+      "Repo": "AtmoOmen/ffxiv_navmesh-cn",
+      "Status": "最新"
+    },
+    {
+      "InternalName": "GatherBuddyReborn",
+      "Name": "GatherBuddy Reborn",
+      "Listed": "7.5.0.4",
+      "UpstreamTag": "7.5.0.4",
+      "UpstreamVer": "7.5.0.4",
+      "Published": "2026-07-29T08:11:55Z",
+      "Repo": "AtmoOmen/GatherBuddyReborn",
+      "Status": "最新"
+    },
+    {
+      "InternalName": "Artisan",
+      "Name": "Artisan",
+      "Listed": "4.0.5.18",
+      "UpstreamTag": null,
+      "UpstreamVer": null,
+      "Published": null,
+      "Repo": "PunishXIV/Artisan",
+      "Status": "查不到 release（可能走插件源分发）"
+    },
+    {
+      "InternalName": "RotationSolver",
+      "Name": "Rotation Solver Reborn",
+      "Listed": "7.5.5.39",
+      "UpstreamTag": "7.5.5.39",
+      "UpstreamVer": "7.5.5.39",
+      "Published": "2026-08-28T00:48:14Z",
+      "Repo": "FFXIV-CombatReborn/RotationSolverReborn",
+      "Status": "最新"
+    },
+    {
+      "InternalName": "BossModReborn",
+      "Name": "BossMod Reborn",
+      "Listed": "7.5.5.61",
+      "UpstreamTag": "7.5.5.61",
+      "UpstreamVer": "7.5.5.61",
+      "Published": "2026-08-27T21:18:37Z",
+      "Repo": "FFXIV-CombatReborn/BossmodReborn",
+      "Status": "最新"
+    },
+    {
+      "InternalName": "DCTravelerX",
+      "Name": "DCTravelerX",
+      "Listed": "0.3.5.0",
+      "UpstreamTag": "0.3.5.0",
+      "UpstreamVer": "0.3.5.0",
+      "Published": "2026-07-19T06:46:04Z",
+      "Repo": "Dalamud-DailyRoutines/DCTraveler",
+      "Status": "最新"
+    },
+    {
+      "InternalName": "MacroMate",
+      "Name": "Macro Mate",
+      "Listed": "1.0.27.4",
+      "UpstreamTag": "v1.0.25.6",
+      "UpstreamVer": "1.0.25.6",
+      "Published": "2025-09-29T08:38:22Z",
+      "Repo": "grittyfrog/MacroMate",
+      "Status": "最新"
+    },
+    {
+      "InternalName": "NyaDraw",
+      "Name": "NyaDraw",
+      "Listed": "1.15.1.2",
+      "UpstreamTag": null,
+      "UpstreamVer": null,
+      "Published": null,
+      "Repo": "",
+      "Status": "查不到 release（可能走插件源分发）"
+    },
+    {
+      "InternalName": "TeamcraftListMaker",
+      "Name": "Teamcraft List Maker",
+      "Listed": "1.0.1.2",
+      "UpstreamTag": null,
+      "UpstreamVer": null,
+      "Published": null,
+      "Repo": "Aida-Enna/TeamcraftListMaker",
+      "Status": "查不到 release（可能走插件源分发）"
+    },
+    {
+      "InternalName": "WorkshopOptimizerPlugin",
+      "Name": "Workshop Optimizer Plugin",
+      "Listed": "0.3.2.0",
+      "UpstreamTag": "0.3.2.0",
+      "UpstreamVer": "0.3.2.0",
+      "Published": "2026-05-01T22:00:52Z",
+      "Repo": "belzaru17/WorkshopOptimizerPlugin",
+      "Status": "最新"
+    },
+    {
+      "InternalName": "Lifestream",
+      "Name": "Lifestream",
+      "Listed": "2.5.4.17",
+      "UpstreamTag": "2.5.4.16",
+      "UpstreamVer": "2.5.4.16",
+      "Published": "2026-08-08T21:32:46Z",
+      "Repo": "NightmareXIV/Lifestream",
+      "Status": "最新"
+    },
+    {
+      "InternalName": "WrathCombo",
+      "Name": "Wrath Combo",
+      "Listed": "1.0.4.21",
+      "UpstreamTag": "1.0.4.21",
+      "UpstreamVer": "1.0.4.21",
+      "Published": "2026-08-16T16:51:50Z",
+      "Repo": "PunishXIV/WrathCombo",
+      "Status": "最新"
+    }
+  ]
+}
