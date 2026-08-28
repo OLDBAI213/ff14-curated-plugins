@@ -36,10 +36,10 @@ https://raw.githubusercontent.com/OLDBAI213/ff14-curated-plugins/main/pluginmast
 
 | 汉化 | 插件 | 干什么 | 出处 |
 |---|---|---|---|
-| 🟡 | MacroMate 宏管理 | 高级宏管理器（启动器里显示中文名；**界面本身英文**——实测 dll 与官方字节级相同，全网无界面汉化版）| [老白/ff14-dalamud-plugin-zh](https://github.com/OLDBAI213/ff14-dalamud-plugin-zh) |
+| 🀄 | MacroMate 宏管理 | 高级宏管理器（**界面中文**，7 月源码级汉化；Cecil dump 实锤界面串全中文）| [老白/ff14-dalamud-plugin-zh](https://github.com/OLDBAI213/ff14-dalamud-plugin-zh) |
 | 🀄 | NyaDraw 画图 | 游戏内画图/标注（霓虹大中文原生）| [NiGuangOwO](https://github.com/NiGuangOwO/DalamudPlugins) |
-| 🟡 | Teamcraft List Maker | 生成 Teamcraft 制作清单（启动器里显示中文名；**界面本身英文**，全网无界面汉化版）| [老白/ff14-dalamud-plugin-zh](https://github.com/OLDBAI213/ff14-dalamud-plugin-zh) |
-| 🟡 | Workshop Optimizer 工坊优化 | 空岛工坊排程优化（启动器里显示中文名；**界面本身英文**，全网无界面汉化版）| [老白/ff14-dalamud-plugin-zh](https://github.com/OLDBAI213/ff14-dalamud-plugin-zh) |
+| 🀄 | Teamcraft List Maker | 生成 Teamcraft 制作清单（**界面中文**，7 月汉化实锤）| [老白/ff14-dalamud-plugin-zh](https://github.com/OLDBAI213/ff14-dalamud-plugin-zh) |
+| 🀄 | Workshop Optimizer 工坊优化 | 空岛工坊排程优化（**界面中文**，7 月汉化实锤）| [老白/ff14-dalamud-plugin-zh](https://github.com/OLDBAI213/ff14-dalamud-plugin-zh) |
 
 ### 📦 备选（收录但默认可以不装）
 
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/OLDBAI213/ff14-curated-plugins/main/pluginmast
 | 🀄 | Lifestream 快速传送 | 传送门快速移动（NiGuangOwO 汉化；老白用 DCTravelerX 了）| [NightmareXIV/Lifestream](https://github.com/NightmareXIV/Lifestream) |
 | 🌐 | Wrath Combo 连击合一 | 技能连击合一（**插件自带中文**：内置 zh-Hans.resx 全套职位汉化；老白用 RS 了，二选一）| [PunishXIV/WrathCombo](https://github.com/PunishXIV/WrathCombo) |
 
-**汉化统计（2026-08-28 dll 级实测修订）：✅ 界面真中文 10 个（AutoHook/WrathCombo/NyaDraw/DailyRoutines/ICE/BossModReborn/GatherBuddyReborn/Lifestream/Artisan(大部分)/RS(少量)）+ 🟡 仅清单中文名、界面英文 4 个（MacroMate/TeamcraftListMaker/WorkshopOptimizer/vnavmesh国际版）**。重要教训：老白 7 月汉化包=官方 dll+中文元数据（清单显示中文，界面未动），实测哈希相同。
+**汉化统计（2026-08-28 第三轮 Cecil dump 终版）：✅ 15/15 全部界面中文**。前两轮"界面英文"的结论是检测方法 bug（.NET dll 字符串为 UTF-16 存储，UTF-8 正则漏检）；Cecil dump 界面字符串实锤 MacroMate/TCLM/工坊优化/vnavmesh/DCTravelerX/RS 全部含中文界面。7 月汉化包为真·dll 级汉化，此前"字节级相同"解读有误（本机=zh包=汉化版，参照系搞反）。
 
 ## 说明
 
@@ -59,5 +59,6 @@ https://raw.githubusercontent.com/OLDBAI213/ff14-curated-plugins/main/pluginmast
 
 ---
 维护：小白（DSH）代老白整理 · 2026-08-28 · 数据来源=本机已装插件实测
+
 
 
