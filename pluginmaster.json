@@ -118,27 +118,34 @@
     "DownloadLinkUpdate": "https://github.com/AtmoOmen/GatherBuddyReborn/releases/download/7.5.0.4/latest.zip"
   },
   {
-    "Author": "Taurenkey, kawaii, NightmareXIV",
+    "Author": "Taurenkey (Puni.sh), QiongHHHZZZ(汉化&适配)",
     "Name": "Artisan",
-    "Punchline": "A 'simple' crafting plugin.",
-    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+    "Punchline": "一个“简单”的制作插件。",
+    "Description": "一体化制作插件。不需要了解制作宏也能轻松制作，支持批量制作与循环节点。",
     "Tags": [
-      "crafting"
+      "crafting",
+      "汉化"
     ],
     "InternalName": "Artisan",
-    "RepoUrl": "https://github.com/PunishXIV/Artisan",
+    "RepoUrl": "https://github.com/QiongHHHZZZ/Artisan",
     "DownloadCount": 5838835,
     "LastUpdate": 1786604713,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.18/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.18/update/latest.zip",
-    "AssemblyVersion": "4.0.5.18",
+    "DownloadLinkInstall": "https://github.com/QiongHHHZZZ/Artisan/releases/download/v4.0.5.18000/Artisan.zip",
+    "DownloadLinkUpdate": "https://github.com/QiongHHHZZZ/Artisan/releases/download/v4.0.5.18000/Artisan.zip",
+    "AssemblyVersion": "4.0.5.18000",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
+    "DalamudApiLevel": 15,
     "Changelog": "- Bug fixes and dependency updates.",
     "TestingAssemblyVersion": "4.0.5.16",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/6"
+    "IconUrl": "https://raw.githubusercontent.com/QiongHHHZZZ/DalamudPlugins/main/icons/artisan.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LoadPriority": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "SupportsProfiles": true
   },
   {
     "Author": "The Combat Reborn Team",
@@ -177,13 +184,10 @@
     "DownloadCount": 3099174
   },
   {
-    "Author": "The Combat Reborn Team",
+    "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
     "Name": "BossMod Reborn",
-    "InternalName": "BossModReborn",
-    "Description": "A bunch of utilities to simplify boss mechanics",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "TestingDalamudApiLevel": 0,
+    "Punchline": "大脑按摩用的(在线安装Only)",
+    "Description": "国服本地化适配&插件生态联动",
     "Tags": [
       "combat",
       "boss",
@@ -193,22 +197,21 @@
       "raids",
       "trials"
     ],
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
-    "Punchline": "Don't fail at raid mechanics anymore",
+    "InternalName": "BossModReborn",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.5.61/latest.zip",
-    "AssemblyVersion": "7.5.5.61",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.5.61/latest.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
-    "TestingAssemblyVersion": "7.4.5.11",
-    "Changelog": "## What's Changed\r\n* Added FRU P3 Module Hints by @vuzeym in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1322\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.5.60...7.5.5.61",
-    "DownloadCount": 3552667
+    "AssemblyVersion": "7.5.5.60",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossModReborn/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossModReborn/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1787832130"
   },
   {
     "Name": "DCTravelerX",
@@ -230,15 +233,16 @@
     "DownloadLinkUpdate": "https://github.com/Dalamud-DailyRoutines/DCTraveler/releases/download/0.3.5.0/latest.zip"
   },
   {
-    "Author": "grittyfrog",
-    "Name": "Macro Mate",
+    "Author": "grittyfrog, OLDBAI213(汉化)",
+    "Name": "MacroMate 汉化版",
     "InternalName": "MacroMate",
     "AssemblyVersion": "1.0.27.4",
     "Description": "Macro Mate lets you store and run an unlimited number of macros. You can also bind macros to normal macro slots.\n\nFor example, you can:\n\n- Automatically swap in the correct raid macro when you enter an instance\n- Store longer macros and automatically split them across multiple macro slots.\n- Use almost any icon in the game for your Macros\n",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/grittyfrog/MacroMate",
+    "RepoUrl": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh",
     "Tags": [
-      "macros"
+      "macros",
+      "汉化"
     ],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
@@ -249,14 +253,15 @@
     "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
-    "IsHide": "False",
+    "IsHide": false,
     "TestingAssemblyVersion": "1.0.9.1",
     "TestingDalamudApiLevel": 15,
-    "IsTestingExclusive": "False",
+    "IsTestingExclusive": false,
     "LastUpdate": "1781463105",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/stable/MacroMate/latest.zip",
+    "DownloadLinkInstall": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/MacroMate-1.0.27.4-zh.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/testing-live/MacroMate/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/testing-live/MacroMate/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/MacroMate-1.0.27.4-zh.zip",
+    "SupportsProfiles": true
   },
   {
     "Author": "NiGuangOwO / Small_Miao",
@@ -279,18 +284,16 @@
     "LastUpdate": "1787832130"
   },
   {
-    "Author": "Aida Enna",
-    "Name": "Teamcraft List Maker",
+    "Author": "Aida-Enna, OLDBAI213(汉化)",
+    "Name": "Teamcraft List Maker 汉化版",
     "InternalName": "TeamcraftListMaker",
     "AssemblyVersion": "1.0.1.2",
     "Description": "No more alt tabbing, no more writing down names of items, just add and export!\n\nThis plugin is not created by Teamcraft staff and they are not responsible for it. To report issues or request new features, please click the globe icon and submit them using the issues tab.\n\n(Logo used with permission from Teamcraft owner)",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Aida-Enna/TeamcraftListMaker",
+    "RepoUrl": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh",
     "Tags": [
-      "teamcraft",
-      "craft",
-      "list",
-      "aida"
+      "crafting",
+      "汉化"
     ],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
@@ -302,25 +305,25 @@
     "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
+    "IsHide": false,
+    "IsTestingExclusive": false,
     "LastUpdate": "1781904353",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/stable/TeamcraftListMaker/latest.zip",
+    "DownloadLinkInstall": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/TeamcraftListMaker-1.0.1.2-zh.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/testing-live/TeamcraftListMaker/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/testing-live/TeamcraftListMaker/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/TeamcraftListMaker-1.0.1.2-zh.zip",
+    "SupportsProfiles": true
   },
   {
-    "Author": "HappySprite",
-    "Name": "Workshop Optimizer Plugin",
+    "Author": "belzaru17, OLDBAI213(汉化)",
+    "Name": "工坊优化 汉化版",
     "InternalName": "WorkshopOptimizerPlugin",
     "AssemblyVersion": "0.3.2.0",
     "Description": "Use /wso after you visited your island.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/belzaru17/WorkshopOptimizerPlugin",
+    "RepoUrl": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh",
     "Tags": [
-      "island",
-      "workshop",
-      "optimizer"
+      "crafting",
+      "汉化"
     ],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
@@ -338,12 +341,13 @@
     "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
+    "IsHide": false,
+    "IsTestingExclusive": false,
     "LastUpdate": "1777676238",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/stable/WorkshopOptimizerPlugin/latest.zip",
+    "DownloadLinkInstall": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/WorkshopOptimizerPlugin-0.3.2.0-zh.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/testing-live/WorkshopOptimizerPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/testing-live/WorkshopOptimizerPlugin/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh/releases/download/localized-2026-07-09/WorkshopOptimizerPlugin-0.3.2.0-zh.zip",
+    "SupportsProfiles": true
   },
   {
     "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
