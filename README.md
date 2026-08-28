@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/OLDBAI213/ff14-curated-plugins/main/pluginmast
 | 汉化 | 插件 | 干什么 | 出处 |
 |---|---|---|---|
 | 🀄 | Daily Routines 日常自动化 | 几十个日常小自动化合集（AtmoOmen 汉化）| [Dalamud-DailyRoutines](https://github.com/Dalamud-DailyRoutines/DailyRoutines) |
-| 🀄 | AutoHook 自动钓鱼 | 钓鱼全自动（❌当前版无汉化；7-09 旧版汉化 6.0.0.68 不建议降级）| [PunishXIV/AutoHook](https://github.com/PunishXIV/AutoHook) |
+| 🌐 | AutoHook 自动钓鱼 | 钓鱼全自动（**插件自带中文**：内置 zh.resx，游戏中文客户端自动显示中文，无需换包）| [PunishXIV/AutoHook](https://github.com/PunishXIV/AutoHook) |
 | 🀄 | 宇宙探索助手 ICE | 宇宙探索制作/采集/任务辅助（**老白自维护汉化版**）| [OLDBAI213/OLDBAI](https://github.com/OLDBAI213/OLDBAI) |
 | 🀄 | vnavmesh 自动寻路 | 自动走位底座（其他自动化插件的"腿"，AtmoOmen 国服版）| [AtmoOmen/ffxiv_navmesh-cn](https://github.com/AtmoOmen/ffxiv_navmesh-cn) |
 | 🀄 | GatherBuddyReborn 自动采集 | 采集全自动（AtmoOmen 汉化；ⓘ 游戏版本更新后可能要等适配）| [AtmoOmen/GatherBuddyReborn](https://github.com/AtmoOmen/GatherBuddyReborn) |
@@ -46,9 +46,9 @@ https://raw.githubusercontent.com/OLDBAI213/ff14-curated-plugins/main/pluginmast
 | 汉化 | 插件 | 干什么 | 出处 |
 |---|---|---|---|
 | 🀄 | Lifestream 快速传送 | 传送门快速移动（NiGuangOwO 汉化；老白用 DCTravelerX 了）| [NightmareXIV/Lifestream](https://github.com/NightmareXIV/Lifestream) |
-| ❌ | Wrath Combo 连击合一 | 技能连击合一（暂无当前版汉化；老白用 RS 了，二选一）| [PunishXIV/WrathCombo](https://github.com/PunishXIV/WrathCombo) |
+| 🌐 | Wrath Combo 连击合一 | 技能连击合一（**插件自带中文**：内置 zh-Hans.resx 全套职位汉化；老白用 RS 了，二选一）| [PunishXIV/WrathCombo](https://github.com/PunishXIV/WrathCombo) |
 
-**汉化统计：🀄 汉化版 12 个 + 🌐 自带中文 1 个 = 13/15；❌ 未汉化 2 个（AutoHook 当前版、WrathCombo 当前版，旧版汉化存在但版本旧不建议降级）**
+**汉化统计（2026-08-28 源码级核实）：🀄 汉化包版 12 个 + 🌐 自带中文 3 个 = 15/15 全有中文**。AutoHook/WrathCombo/RS 均为插件内置语言文件（zh.resx / zh-Hans.resx / CNLanguage 逻辑），游戏中文客户端下自动生效，不用换包。
 
 ## 说明
 
@@ -59,3 +59,4 @@ https://raw.githubusercontent.com/OLDBAI213/ff14-curated-plugins/main/pluginmast
 
 ---
 维护：小白（DSH）代老白整理 · 2026-08-28 · 数据来源=本机已装插件实测
+
